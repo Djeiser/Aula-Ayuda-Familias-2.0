@@ -301,6 +301,7 @@ COMPETENCIAS ESPECÍFICAS
 7. Desarrollar destrezas personales que ayuden a identificar y gestionar emociones al enfrentarse a retos matemáticos, fomentando la confianza en las propias posibilidades, aceptando el error como parte del proceso de aprendizaje y adaptándose a las situaciones de incertidumbre, para mejorar la perseverancia y disfrutar en el aprendizaje de las matemáticas y controlar situaciones de frustración en el ensayo y error. TEM5, CPSAA1, CPSAA4, CPSAA5, CE2, СЕЗ.
 8. Desarrollar destrezas sociales, reconociendo y respetando las emociones, las experiencias de los demás y el valor de la diversidad y participando activamente en equipos de trabajo heterogéneos con roles asignados, para construir una identidad positiva como estudiante de matemáticas, fomentar el bienestar personal y crear relaciones saludables. CP3, STEM3, CPSAA1, CPSAA3, CC2, ССЗ.
 
+**Entrega trabajo de Plástica el 2 de octubre
 --- FIN DE DOCUMENTOS DE REFERENCIA ---
 `;
 
