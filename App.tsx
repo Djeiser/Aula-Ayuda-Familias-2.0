@@ -15,7 +15,7 @@ const App: React.FC = () => {
 
   const welcomeMessage: Message = {
     role: 'model',
-    text: 'Hola, soy el asistente escolar. ¿En qué puedo ayudarte sobre las tareas de clase?',
+    text: '¡Hola! Soy vuestro maestro. ¿En qué puedo ayudaros hoy con las tareas de clase?',
   };
 
   const examplePrompts = [
@@ -84,7 +84,7 @@ const App: React.FC = () => {
           <SchoolIcon className="w-8 h-8 text-orange-500" />
           <div>
             <h1 className="text-xl font-bold text-slate-800">Aula Ayuda Familias</h1>
-            <p className="text-sm text-slate-600">Tu asistente escolar para dudas sobre tareas.</p>
+            <p className="text-sm text-slate-600">Un canal directo para resolver dudas sobre tareas.</p>
           </div>
         </div>
       </header>

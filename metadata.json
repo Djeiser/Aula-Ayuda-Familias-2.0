@@ -1,6 +1,6 @@
 {
   "name": "Aula Ayuda Familias",
-  "description": "Un asistente escolar para ayudar a las familias a entender las tareas escolares, los criterios de evaluación y las fechas de entrega.",
+  "description": "Un canal de comunicación directo con el maestro para ayudar a las familias a entender las tareas escolares, los criterios de evaluación y las fechas de entrega.",
   "requestFramePermissions": [],
   "prompt": ""
 }
