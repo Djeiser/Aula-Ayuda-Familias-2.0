@@ -8,7 +8,7 @@ const renderText = (text: string) => {
     .replace(/>/g, "&gt;")
     .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
     .replace(/\*(.*?)\*/g, '<em>$1</em>')
-    .replace(/`([^`]+)`/g, '<code class="font-mono bg-slate-200 text-sm rounded px-1 py-0.5">$1</code>')
+    .replace(/`([^`]+)`/g, '<code class="font-mono bg-slate-200 text-slate-800 text-sm rounded px-1 py-0.5">$1</code>')
     .replace(/\n/g, '<br />');
   return { __html: html };
 };

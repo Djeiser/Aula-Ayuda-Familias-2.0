@@ -1,6 +1,6 @@
 {
   "name": "Aula Ayuda Familias",
-  "description": "Un canal de comunicación directo con el maestro para ayudar a las familias a entender las tareas escolares, los criterios de evaluación y las fechas de entrega.",
+  "description": "El asistente digital oficial de la clase del profe Guille. Te ayudo a encontrar información sobre tareas, fechas y materiales de clase.",
   "requestFramePermissions": [],
   "prompt": ""
 }
